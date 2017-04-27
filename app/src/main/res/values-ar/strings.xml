@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نظام إدارة الزحام</string>
+    <string name="enable_gps">الرجاء تفعيل نظام تحديد المواقع</string>
+    <string name="yalla">يالا بينا</string>
+    <string name="email">البريد الالكترونى</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="tmc_account">حساب إدارة الزحام</string>
+    <string name="hi">أهلا</string>
+</resources>
