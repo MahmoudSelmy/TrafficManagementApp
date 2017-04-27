@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "720721111336",
+    "firebase_url": "https://tmc2017-2c569.firebaseio.com",
+    "project_id": "tmc2017-2c569",
+    "storage_bucket": "tmc2017-2c569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720721111336:android:828c97bb92a0f809",
+        "android_client_info": {
+          "package_name": "com.masstudio.selmy.tmc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720721111336-vmnljjlp456cotejar1b1i1q94d17t3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ueBtqZwXefqzjR_c46YfO82Aac2ucTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
